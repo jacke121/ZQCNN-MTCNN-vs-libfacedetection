@@ -1,5 +1,11 @@
 test:
 SampleMTCNN.exe 4.jpg 20 0
+total cost: 36.812 ms (P: 32.878 ms, R: 1.908 ms, O: 2.026 ms)
+total 0.567 s / 20 = 28.373 ms
+
+total cost: 37.223 ms (P: 33.775 ms, R: 1.387 ms, O: 2.061 ms)
+total 0.526 s / 20 = 26.292 ms
+
 
 # ZQCNN-MTCNN-vs-libfacedetection
 
