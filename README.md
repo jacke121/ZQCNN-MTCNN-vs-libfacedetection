@@ -1,3 +1,6 @@
+test:
+SampleMTCNN.exe 4.jpg 20 0
+
 # ZQCNN-MTCNN-vs-libfacedetection
 
 ## [ZQCNN](https://github.com/zuoqing1988/ZQCNN):下载时间2019-03-25 09:00
