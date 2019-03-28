@@ -1,5 +1,6 @@
 test:
 SampleMTCNN.exe 4.jpg 20 0
+i7:
 total cost: 36.812 ms (P: 32.878 ms, R: 1.908 ms, O: 2.026 ms)
 total 0.567 s / 20 = 28.373 ms
 
