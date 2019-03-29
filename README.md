@@ -18,6 +18,9 @@ windows：mkl, opencv3.4.2
 
 arm-linux: openblas, opencv3.4.2
 
+mkl资料首选是 github:https://github.com/microsoft/cntk
+
+
 ## [libfacedetection](https://github.com/ShiqiYu/libfacedetection):下载时间2019-03-25 09:00
 
 # (一) WINDOWS下对比 (测试机器为E5-1650V4 3.6GHz)
