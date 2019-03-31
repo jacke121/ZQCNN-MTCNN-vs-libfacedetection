@@ -1,3 +1,6 @@
+cpu25ms左右
+速度挺快，很多漏检
+
 test:
 SampleMTCNN.exe 4.jpg 20 0
 i7:
